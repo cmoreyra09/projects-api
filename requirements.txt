@@ -1,0 +1,15 @@
+pandas
+requests
+datetime
+python-dotenv
+pyodbc
+openpyxl
+prefect
+aiohttp
+coloredlogs
+tabulate
+sqlalchemy
+pyfiglet
+aioodbc
+logging
+

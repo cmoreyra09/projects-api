@@ -1,0 +1,17 @@
+data/*
+db_configuration/*
+
+!data/.gitkeep
+!db_configuration/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+orchestration/workload-genesysCloud/
+
+getsApi-venv/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
